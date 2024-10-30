@@ -10,6 +10,9 @@ Script to review how to build a custom memory allocator and some other memory re
 - Memory Heap v Memory Stack
 - Pass by value, by reference, by address (pointer)
 
+## Aclarations
+I use Visual Studio Code in a Windows machine. So I run the scripts by compiling it with `gcc compiler`.
+
 ## References
 
 Some Media references you can check are:
